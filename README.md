@@ -14,9 +14,5 @@ If you find our work useful in your research, please consider citing:
    author = {Zhou, Youjie and Wang, Yiming and Poiesi, Fabio and Qin, Qi and Wan, Yi},\
    titile = {Loop closure detection using local 3D deep descriptors},\
    journal = {IEEE Robotics and Automation Letters},\
-   year = {2022},\
-   month = {},\
-   pages = {},\
-   volume = {},\
-   number = {}
+   year = {to appear in 2022}
 }
