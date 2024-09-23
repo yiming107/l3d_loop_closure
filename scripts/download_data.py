@@ -25,4 +25,4 @@ if __name__ == '__main__':
 
     download_unzip(dest_dir= dest_dir,
                    dataset_name='kitti00',
-                   url='https://drive.google.com/file/d/1fUnforKuRx0SmvMExaiZ2owwEDqnkSed/view?usp=sharing')
+                   url='https://drive.google.com/file/d/1Y9cgDXBMx2itJfHcnE_0ZoW_rqDqdFW7/view?usp=sharing')
